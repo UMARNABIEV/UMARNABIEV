@@ -3,4 +3,4 @@
 🌱 I’m currently learning HTML and CSS!
 
 ### Languages and tool I work with
-<code> <img src="https://toppng.com/uploads/preview/html5-grey-black-11609363742cuzy8j6mkq.png" width="30px"></code>
+<code> <img src="https://www.clipartmax.com/png/middle/313-3134295_the-hypertext-markup-language-is-essential-for-every-html5-css3-logo-png.png" width="30px"></code>
