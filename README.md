@@ -2,5 +2,5 @@
 
 🌱 I’m currently learning HTML and CSS!
 
-### Languages and tool I work with
-<code> <img src="https://www.clipartmax.com/png/middle/313-3134295_the-hypertext-markup-language-is-essential-for-every-html5-css3-logo-png.png" width="30px"></code>
+### Languages and tools I work with
+<code> <img src="https://w7.pngwing.com/pngs/185/866/png-transparent-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-text-thumbnail.png" width="30px"></code>
