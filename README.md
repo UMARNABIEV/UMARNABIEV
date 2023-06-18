@@ -3,4 +3,4 @@
 🌱 I’m currently learning HTML and CSS!
 
 ### Languages and tools I work with
-<code> <img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" width="40px"></code>
+<code> <img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" width="50px"></code>
